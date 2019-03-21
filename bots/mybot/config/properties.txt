@@ -1,7 +1,0 @@
-nombre:Mia
-botmaster:Guille	
-organization:DEIIT
-edad:1
-version:0.0.1
-
-
