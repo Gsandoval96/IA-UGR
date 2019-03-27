@@ -1,9 +1,0 @@
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/rebuild_cache.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/edit_cache.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/BelkanSG.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/GLUILib.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/Belkan.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/obj3DLib.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/motorLib.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/modelosBelkanLib.dir
-/home/gsandoval/Descargas/Archivos Belkan Reactivo/CMakeFiles/comportamientosLib.dir

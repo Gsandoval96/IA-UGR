@@ -1,9 +1,0 @@
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/rebuild_cache.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/edit_cache.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/BelkanSG.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/GLUILib.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/Belkan.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/obj3DLib.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/motorLib.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/modelosBelkanLib.dir
-/home/gsandoval/Escritorio/Archivo Belkan Deliberativo/CMakeFiles/comportamientosLib.dir
